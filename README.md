@@ -9,6 +9,7 @@ Setup Termux with:
 # Requirement
 - curl
 ```bash
+pkg update && pkg install
 pkg install -y libcurl curl
 ```
 
