@@ -18,6 +18,5 @@ pkg install -y libcurl curl
 bash -c "$(curl -fsSL https://git.io/oh-my-termux)"
 ```
 # lets start
-   
- ```  nano .zshrc
-``````
+```nano .zshrc
+```
