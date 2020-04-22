@@ -21,3 +21,7 @@ bash -c "$(curl -fsSL https://git.io/oh-my-termux)"
 ```bash
 nano .zshrc
 ```
+# and LAst select thems code this Site :-
+```bash 
+https://raw.githubusercontent.com/guru1993/oh-my-zsh/master/README.md2
+```
